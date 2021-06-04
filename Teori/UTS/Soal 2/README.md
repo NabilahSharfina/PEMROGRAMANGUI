@@ -8,14 +8,21 @@
   
      app = QApplication([])
      button = QPushButton('Click')
+     
   B. Membuat Message Box
   
      def on_button_clicked():
       alert = QMessageBox()
       alert.setText('You clicked the button!')
       alert.exec_()
+      
   C. Memberi Fungsi Connect pada tombol yang diklik
   
     button.clicked.connect(on_button_clicked)
     button.show()
     app.exec_();
+    
+  D. Python
+    
+    Dalam bahasa pemrograman Python, perlu adanya penggunaan indentasi (tab) dalam menuliskan kode di setiap baris.
+    Jika dilihat pada program sebelum di revisi, masih terdapat line code yang indentasinya tidak teratur.
