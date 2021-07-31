@@ -23,9 +23,9 @@
 
 # APLIKASI "*CHECK UP*"
     A.  Gambaran Umum
-        Aplikasi “Check Up Kesehatan Manusia” yang bertujuan untuk memudahkan pengguna dalam periksa kondisi kesehatan fisik. 
+            Aplikasi “Check Up Kesehatan Manusia” yang bertujuan untuk memudahkan pengguna dalam periksa kondisi kesehatan fisik. 
         Kami terinspirasi dari kondisi pandemi Covid-19 yang muncul pada akhir tahun 2019 hingga saat ini. 
-        Harapan kami ide ini bisa menjadi solusi demi meminimalisir penyebaran Covid-19 yang belum juga reda hingga 
+        Harapan kami, ide ini bisa menjadi solusi demi meminimalisir penyebaran Covid-19 yang belum juga reda hingga 
         bagaimana caranya agar tubuh manusia tetap terjaga. 
         Aplikasi ini bisa digunakan oleh seluruh kalangan dengan tidak memandang usia, derajat maupun jenis kelamin. 
         Melalui aplikasi ini, pengguna dapat mengakses beragam informasi terkait program kesehatan yang diselenggarakan oleh 
@@ -48,3 +48,9 @@
 
 
     B.  Use Case Diagram
+![use case](https://user-images.githubusercontent.com/58089002/127747524-1c7acb13-3e47-403c-8865-1f7f09006bfb.png)
+
+    C.  Desain Database
+![database](https://user-images.githubusercontent.com/58089002/127747526-66a20c75-2e20-4e8f-93ec-d6e3354304d5.png)
+
+    D.  Demo Program
