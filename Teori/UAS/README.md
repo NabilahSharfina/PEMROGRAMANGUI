@@ -22,14 +22,14 @@
         screenshot pada readme yang lengkap dan jelas!
 
 # APLIKASI "*CHECK UP*"
-    A.  Gambaran Umum
-            Aplikasi “Check Up Kesehatan Manusia” yang bertujuan untuk memudahkan pengguna dalam periksa kondisi kesehatan fisik. 
-        Kami terinspirasi dari kondisi pandemi Covid-19 yang muncul pada akhir tahun 2019 hingga saat ini. 
-        Harapan kami, ide ini bisa menjadi solusi demi meminimalisir penyebaran Covid-19 yang belum juga reda hingga 
-        bagaimana caranya agar tubuh manusia tetap terjaga. 
-        Aplikasi ini bisa digunakan oleh seluruh kalangan dengan tidak memandang usia, derajat maupun jenis kelamin. 
-        Melalui aplikasi ini, pengguna dapat mengakses beragam informasi terkait program kesehatan yang diselenggarakan oleh 
-        pemerintah secara cepat, mudah, pelayanan yang optimal, di mana pun, kapan pun.
+  A.  Gambaran Umum
+      
+      Aplikasi “Check Up Kesehatan Manusia” yang bertujuan untuk memudahkan pengguna dalam periksa kondisi kesehatan fisik. 
+      Kami terinspirasi dari kondisi pandemi Covid-19 yang muncul pada akhir tahun 2019 hingga saat ini. Harapan kami, 
+      ide ini bisa menjadi solusi demi meminimalisir penyebaran Covid-19 yang belum juga reda hingga bagaimana caranya 
+      agar tubuh manusia tetap terjaga. Aplikasi ini bisa digunakan oleh seluruh kalangan dengan tidak memandang usia, 
+      derajat maupun jenis kelamin. Melalui aplikasi ini, pengguna dapat mengakses beragam informasi terkait program kesehatan 
+      yang diselenggarakan oleh pemerintah secara cepat, mudah, pelayanan yang optimal, di mana pun, kapan pun.
 
 **Didukung oleh:**
 
@@ -47,10 +47,30 @@
 </a>
 
 
-    B.  Use Case Diagram
+  B.  Use Case Diagram
 ![use case](https://user-images.githubusercontent.com/58089002/127747524-1c7acb13-3e47-403c-8865-1f7f09006bfb.png)
 
-    C.  Desain Database
+  C.  Desain Database
 ![database](https://user-images.githubusercontent.com/58089002/127747526-66a20c75-2e20-4e8f-93ec-d6e3354304d5.png)
 
-    D.  Demo Program
+  D.  Demo Program
+     
+      1.  Install PyMySQL
+          Sebelum membuat koneksi ke database mysql, perlu meng-install package PyMySQL yang akan menghubungkan 
+          python ke database yang telah dibuat. Tuliskan perintah berikut pada command prompt:
+![install pymysql](https://user-images.githubusercontent.com/58089002/127750174-2984a684-828d-432b-8c38-86eff8b40fab.png)
+          
+          Tunggu sampai prosesnya selesai, jika sudah selesai untuk mengecek package sudah ter-install 
+          dengan benar atau belum, caranya dengan menuliskan perintah seperti di bawah ini:
+![import pymysql](https://user-images.githubusercontent.com/58089002/127750171-f838b200-6ec2-4572-964b-037a0b2c464c.png)
+
+          Jika hasilnya seperti gambar di atas, maka instalasi dinyatakan telah berhasil.
+
+      2.  Konversi .ui ke .py
+          Pertama, membuat desain ui menggunakan Qt Designer. Kemudian, konversi file .ui dari Qt Designer yang telah dibuat 
+          sebelumnya menjadi file .py. Untuk mengkonversinya, ketikkan perintah seperti di bawah ini pada command prompt:
+![konversi ui ke py](https://user-images.githubusercontent.com/58089002/127750175-4b950ec0-a781-4f97-b47d-0553c023d237.png)
+
+      3.  
+      4.
+      5.
