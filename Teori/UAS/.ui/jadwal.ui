@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>392</width>
+    <height>515</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>30</y>
+     <width>221</width>
+     <height>311</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="judul_label">
+      <property name="font">
+       <font>
+        <pointsize>14</pointsize>
+        <weight>75</weight>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>JANJI MEDIS</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QFormLayout" name="janjimedis_layout_form">
+      <property name="horizontalSpacing">
+       <number>10</number>
+      </property>
+      <property name="verticalSpacing">
+       <number>20</number>
+      </property>
+      <item row="0" column="0">
+       <widget class="QLabel" name="pesanan_label">
+        <property name="text">
+         <string>Id Pesanan :</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="dokter_label">
+        <property name="text">
+         <string>Id Dokter :</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="laborat_label">
+        <property name="text">
+         <string>Id Laborat :</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QLabel" name="pasien_label">
+        <property name="text">
+         <string>Id Pasien :</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QLabel" name="tempat_label">
+        <property name="text">
+         <string>Tempat :</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QLineEdit" name="tempat_lineEdit"/>
+      </item>
+      <item row="0" column="1">
+       <widget class="QComboBox" name="pesanan_comboBox"/>
+      </item>
+      <item row="1" column="1">
+       <widget class="QComboBox" name="dokter_comboBox"/>
+      </item>
+      <item row="2" column="1">
+       <widget class="QComboBox" name="laborat_comboBox"/>
+      </item>
+      <item row="3" column="1">
+       <widget class="QComboBox" name="pasien_comboBox"/>
+      </item>
+      <item row="5" column="1">
+       <widget class="QDateTimeEdit" name="jadwal_timeEdit"/>
+      </item>
+      <item row="5" column="0">
+       <widget class="QLabel" name="jadwal_label">
+        <property name="text">
+         <string>Jadwal :</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="1">
+       <widget class="QPushButton" name="daftar_button">
+        <property name="text">
+         <string>DAFTAR</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
