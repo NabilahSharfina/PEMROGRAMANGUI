@@ -1,12 +1,12 @@
-# KELOMPOK 9
+# 💻 KELOMPOK 9
   Terdiri dari 3 anggota, sebagai berikut:
   |  | Nama | NIM | Kelas | Tugas |
   | - | - | - | - | - |
-  | :boy: | **Sofiyudin Pamungkas** | 19104001 | S1 SE-03-A | Mengusulkan ide projek, menyusun laporan ide projek, dan membuat *prototype* di Figma |
-  | :boy: | **Ibnu Adha N.** | 19104020 | S1 SE-03-A | Membuat desain GUI dan koneksi *database* ke *Python* pada menu *login* & *register* |
-  | :girl: | **Nabilah Sharfina** | 19104025 | S1 SE-03-A | Menyusun laporan ide projek, membuat desain *database*, membuat *use case diagram*, membuat desain GUI, koneksi *database* ke *Python*, dan menyusun dokumentasi di *github* |
+  | 👨‍🎓 | **Sofiyudin Pamungkas** | 19104001 | S1 SE-03-A | Mengusulkan ide projek, menyusun laporan ide projek, dan membuat *prototype* di Figma |
+  | 👨‍🎓 | **Ibnu Adha N.** | 19104020 | S1 SE-03-A | Membuat desain GUI dan koneksi *database* ke *Python* pada menu *login* & *register* |
+  | 👩‍🎓 | **Nabilah Sharfina** | 19104025 | S1 SE-03-A | Menyusun laporan ide projek, membuat desain *database*, membuat *use case diagram*, membuat desain GUI, koneksi *database* ke *Python*, dan menyusun dokumentasi di *github* |
 
-# SOAL UAS 
+# 📌 SOAL UAS 
     1.  Pilihlah sebuah kasus untuk diselesaikan menggunakan aplikasi GUI! 
     2.  Buatlah sebuah aplikasi dengan menerapkan bahasa pemrograman Python
         dengan framework PyQt sesuai dengan kasus yang dipilih pada nomor (1)!
@@ -21,8 +21,8 @@
     5.  Upload aplikasi melalui github dan berikan panduan penggunan serta
         screenshot pada readme yang lengkap dan jelas!
 
-# APLIKASI "*CHECK UP*"
-  A.  Gambaran Umum
+# 🏥 APLIKASI "*CHECK UP*"
+  **A.  GAMBARAN UMUM**
       
       Aplikasi “Check Up Kesehatan Manusia” yang bertujuan untuk memudahkan pengguna dalam periksa kondisi kesehatan fisik. 
       Kami terinspirasi dari kondisi pandemi Covid-19 yang muncul pada akhir tahun 2019 hingga saat ini. Harapan kami, 
@@ -46,14 +46,15 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
 </a>
 
-
-  B.  Use Case Diagram
+  **B.  USE CASE DIAGRAM**
+  
 ![use case](https://user-images.githubusercontent.com/58089002/127747524-1c7acb13-3e47-403c-8865-1f7f09006bfb.png)
 
-  C.  Desain Database
+  **C.  DESAIN DATABASE**
+  
 ![database](https://user-images.githubusercontent.com/58089002/127747526-66a20c75-2e20-4e8f-93ec-d6e3354304d5.png)
 
-  D.  Demo Program
+  **D.  DEMO PROGRAM**
      
       1.  Install PyMySQL
           Sebelum membuat koneksi ke database mysql, perlu meng-install package PyMySQL yang akan menghubungkan 
