@@ -75,18 +75,23 @@
       3.  Menampilkan menu dashboard
 ![dashboard](https://user-images.githubusercontent.com/58089002/128672937-58c0e572-e73d-4e09-90d3-6992881f9706.png)
 
-      4.
+      4.  Menampilkan menu artikel kesehatan untuk dibaca oleh pasien
 ![artikel](https://user-images.githubusercontent.com/58089002/128672926-ddb92b02-8ba0-4395-a963-b8436a944f8f.png)
 
-      5.
+      5.  Menampilkan menu chat antara pasien dan dokter
 ![chat](https://user-images.githubusercontent.com/58089002/128672933-df064ee3-4caa-43fb-be94-ea8e85011cc9.png)
 
+      6.  Menampilkan menu scan suhu tubuh untuk pasien
 ![scan](https://user-images.githubusercontent.com/58089002/128672907-4296f966-2d44-4b90-9a8d-baec64afb465.png)
 
+      7.  Menampilkan menu tes laboratorium / cek kesehatan oleh pasien dan dokter / pasien dan laborat
 ![tesLab](https://user-images.githubusercontent.com/58089002/128672919-425bf249-cd1f-405e-96e2-7d31f6e8bc9a.png)
 
+      8.  Menampilkan menu janji medis yang dilakukan oleh pasien dan dokter
 ![janji](https://user-images.githubusercontent.com/58089002/128672941-6fa83ee4-b980-445e-b945-61c0cb011255.png)
 
+      9.  Menampilkan menu layanan asuransi bagi pasien
 ![asuransi](https://user-images.githubusercontent.com/58089002/128672930-4c980d14-2853-4dfe-8eb0-febaa33bf072.png)
 
+      10.  Menampilkan menu tagihan transaksi yang ditujukan pada pasien
 ![transaksi](https://user-images.githubusercontent.com/58089002/128672923-c1f11cfe-8e49-4e71-a0c2-7c02f182b50a.png)
